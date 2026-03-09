@@ -1,40 +1,89 @@
 [
-  {
-    "topic": "Mental Multiplication",
-    "levels": [
-      {
-        "level": "Easy",
-        "questions": [
-          {
-            "text": "What is 25 × 4?",
-            "answer": 100,
-            "hint": "25 × 4 makes 100",
-            "explanation": "25 × 4 = 100."
-          }
-        ]
-      },
-      {
-        "level": "Moderate",
-        "questions": [
-          {
-            "text": "What is 99 × 101?",
-            "answer": 9999,
-            "hint": "(100-1)(100+1)",
-            "explanation": "Use difference of squares: 100² - 1."
-          }
-        ]
-      },
-      {
-        "level": "Difficult",
-        "questions": [
-          {
-            "text": "What is 48²?",
-            "answer": 2304,
-            "hint": "(50-2)²",
-            "explanation": "2500 - 200 + 4 = 2304."
-          }
-        ]
-      }
-    ]
-  }
+{
+"topic": "Mental Multiplication",
+"levels": [
+
+{
+"level": "Easy",
+"questions": [
+
+{ "text": "What is 25 × 4?", "answer": 100, "hint": "25 × 4 makes 100", "explanation": "25 × 4 = 100." },
+
+{ "text": "What is 50 × 8?", "answer": 400, "hint": "Half of 100 × 8", "explanation": "50 × 8 = 400." },
+
+{ "text": "What is 20 × 15?", "answer": 300, "hint": "2 × 15 × 10", "explanation": "20 × 15 = 300." },
+
+{ "text": "What is 30 × 12?", "answer": 360, "hint": "3 × 12 × 10", "explanation": "30 × 12 = 360." },
+
+{ "text": "What is 11 × 9?", "answer": 99, "hint": "Multiply normally", "explanation": "11 × 9 = 99." },
+
+{ "text": "What is 12 × 12?", "answer": 144, "hint": "Square trick", "explanation": "12 × 12 = 144." },
+
+{ "text": "What is 15 × 6?", "answer": 90, "hint": "Multiply directly", "explanation": "15 × 6 = 90." },
+
+{ "text": "What is 18 × 5?", "answer": 90, "hint": "Half of 18 × 10", "explanation": "18 × 5 = 90." },
+
+{ "text": "What is 40 × 25?", "answer": 1000, "hint": "4 × 25 × 10", "explanation": "40 × 25 = 1000." },
+
+{ "text": "What is 16 × 4?", "answer": 64, "hint": "Multiply normally", "explanation": "16 × 4 = 64." }
+
+]
+},
+
+{
+"level": "Moderate",
+"questions": [
+
+{ "text": "What is 99 × 101?", "answer": 9999, "hint": "(100−1)(100+1)", "explanation": "Using identity (a−b)(a+b)=a²−b² → 100²−1 = 9999." },
+
+{ "text": "What is 48 × 52?", "answer": 2496, "hint": "(50−2)(50+2)", "explanation": "Use difference of squares: 50² − 4 = 2496." },
+
+{ "text": "What is 49 × 51?", "answer": 2499, "hint": "(50−1)(50+1)", "explanation": "50² − 1 = 2499." },
+
+{ "text": "What is 25 × 16?", "answer": 400, "hint": "Quarter of 16 × 100", "explanation": "25 × 16 = 400." },
+
+{ "text": "What is 75 × 4?", "answer": 300, "hint": "3 × 100", "explanation": "75 × 4 = 300." },
+
+{ "text": "What is 125 × 8?", "answer": 1000, "hint": "1/8 of 1000 trick", "explanation": "125 × 8 = 1000." },
+
+{ "text": "What is 19 × 21?", "answer": 399, "hint": "(20−1)(20+1)", "explanation": "20² − 1 = 399." },
+
+{ "text": "What is 35 × 11?", "answer": 385, "hint": "Add digits trick", "explanation": "35 × 11 = 385." },
+
+{ "text": "What is 63 × 11?", "answer": 693, "hint": "Add digits in between", "explanation": "63 × 11 = 693." },
+
+{ "text": "What is 27 × 9?", "answer": 243, "hint": "Multiply normally", "explanation": "27 × 9 = 243." }
+
+]
+},
+
+{
+"level": "Difficult",
+"questions": [
+
+{ "text": "What is 48²?", "answer": 2304, "hint": "(50−2)²", "explanation": "(50−2)² = 2500 − 200 + 4 = 2304." },
+
+{ "text": "What is 52²?", "answer": 2704, "hint": "(50+2)²", "explanation": "(50+2)² = 2500 + 200 + 4 = 2704." },
+
+{ "text": "What is 75²?", "answer": 5625, "hint": "(70+5)²", "explanation": "Square expansion gives 5625." },
+
+{ "text": "What is 95²?", "answer": 9025, "hint": "Use 100−5 trick", "explanation": "(100−5)² = 10000 − 1000 + 25 = 9025." },
+
+{ "text": "What is 105²?", "answer": 11025, "hint": "Use 100+5 trick", "explanation": "(100+5)² = 10000 + 1000 + 25 = 11025." },
+
+{ "text": "What is 111 × 111?", "answer": 12321, "hint": "Pattern multiplication", "explanation": "111 × 111 = 12321." },
+
+{ "text": "What is 125²?", "answer": 15625, "hint": "125 × 125", "explanation": "125 × 125 = 15625." },
+
+{ "text": "What is 88 × 112?", "answer": 9856, "hint": "(100−12)(100+12)", "explanation": "100² − 144 = 9856." },
+
+{ "text": "What is 64²?", "answer": 4096, "hint": "Square of 64", "explanation": "64 × 64 = 4096." },
+
+{ "text": "What is 144 × 25?", "answer": 3600, "hint": "Quarter of 144 × 100", "explanation": "144 × 25 = 3600." }
+
+]
+}
+
+]
+}
 ]
