@@ -2,7 +2,7 @@
   "topics": [
     {
       "id": "number_patterns",
-      "name": "Number Patterns",
+      "name": "Number Patterns guru",
       "icon": "ic_patterns",
       "remoteUrl": "https://raw.githubusercontent.com/giridharkn07-source/guru/refs/heads/main/topics/number_patterns.json"
     },
