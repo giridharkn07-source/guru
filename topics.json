@@ -1,0 +1,22 @@
+{
+  "topics": [
+    {
+      "id": "number_patterns",
+      "name": "Number Patterns",
+      "icon": "ic_patterns",
+      "localFile": "topics/number_patterns.json"
+    },
+    {
+      "id": "mental_multiplication",
+      "name": "Mental Multiplication",
+      "icon": "ic_multiplication",
+      "localFile": "topics/mental_multiplication.json"
+    },
+    {
+      "id": "algebra",
+      "name": "Rapid Algebra",
+      "icon": "ic_algebra",
+      "localFile": "topics/algebra.json"
+    }
+  ]
+}

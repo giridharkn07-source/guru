@@ -1,0 +1,40 @@
+[
+  {
+    "topic": "Mental Multiplication",
+    "levels": [
+      {
+        "level": "Easy",
+        "questions": [
+          {
+            "text": "What is 25 × 4?",
+            "answer": 100,
+            "hint": "25 × 4 makes 100",
+            "explanation": "25 × 4 = 100."
+          }
+        ]
+      },
+      {
+        "level": "Moderate",
+        "questions": [
+          {
+            "text": "What is 99 × 101?",
+            "answer": 9999,
+            "hint": "(100-1)(100+1)",
+            "explanation": "Use difference of squares: 100² - 1."
+          }
+        ]
+      },
+      {
+        "level": "Difficult",
+        "questions": [
+          {
+            "text": "What is 48²?",
+            "answer": 2304,
+            "hint": "(50-2)²",
+            "explanation": "2500 - 200 + 4 = 2304."
+          }
+        ]
+      }
+    ]
+  }
+]

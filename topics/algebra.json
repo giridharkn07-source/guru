@@ -1,0 +1,25 @@
+[
+  {
+    "topic": "Rapid Algebra",
+    "levels": [
+      {
+        "level": "Easy",
+        "questions": [
+          { "text": "Solve for x: x + 7 = 15", "answer": 8, "hint": "Subtract 7 from 15", "explanation": "x = 15 - 7 = 8." }
+        ]
+      },
+      {
+        "level": "Moderate",
+        "questions": [
+          { "text": "Solve for x: 3x - 5 = 16", "answer": 7, "hint": "Add 5, then divide by 3", "explanation": "3x = 21, so x = 7." }
+        ]
+      },
+      {
+        "level": "Difficult",
+        "questions": [
+          { "text": "Solve for x: 5x + 3 = 3x + 13", "answer": 5, "hint": "2x = 10", "explanation": "2x = 10, so x = 5." }
+        ]
+      }
+    ]
+  }
+]

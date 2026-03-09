@@ -1,0 +1,46 @@
+[
+  {
+    "topic": "Number Patterns",
+    "levels": [
+      {
+        "level": "Easy",
+        "questions": [
+          {
+            "text": "Find the next number: 2, 4, 8, 16, ?",
+            "answer": 32,
+            "hint": "Each number doubles",
+            "explanation": "Each number is multiplied by 2."
+          },
+          {
+            "text": "Find the next number: 3, 6, 9, 12, ?",
+            "answer": 15,
+            "hint": "Look at the difference",
+            "explanation": "Numbers increase by 3 each step."
+          }
+        ]
+      },
+      {
+        "level": "Moderate",
+        "questions": [
+          {
+            "text": "Find the next number: 1, 4, 9, 16, ?",
+            "answer": 25,
+            "hint": "Think squares",
+            "explanation": "Sequence is square numbers: 1², 2², 3², 4²."
+          }
+        ]
+      },
+      {
+        "level": "Difficult",
+        "questions": [
+          {
+            "text": "Find the next number: 2, 6, 12, 20, ?",
+            "answer": 30,
+            "hint": "Look at differences",
+            "explanation": "Differences are 4, 6, 8. Next difference is 10."
+          }
+        ]
+      }
+    ]
+  }
+]
